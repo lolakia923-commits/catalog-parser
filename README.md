@@ -1,5 +1,9 @@
 # Catalog Parser — сайт → Excel
 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Kwork](https://img.shields.io/badge/Kwork-Заказать-00a046?style=flat-square)](https://kwork.ru/user/nikitasokolov44)
+
 Демо-парсер на Python: собирает товары с каталога и выгружает в **Excel** и **CSV**.
 
 ## Возможности
